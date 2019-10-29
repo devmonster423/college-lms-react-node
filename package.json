@@ -61,7 +61,7 @@
     "mocha": "^5.0.0",
     "moment": "^2.20.1",
     "mongodb": "^3.0.1",
-    "mongoose": "^4.13.9",
+    "mongoose": "^5.7.5",
     "multer": "^1.3.0",
     "node-sass": "^4.9.2",
     "nodemailer": "^4.6.3",
